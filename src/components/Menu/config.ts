@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '/',
+    href: 'http://exchange.cubdefi.com/',
   },
   {
     label: 'Trade',
