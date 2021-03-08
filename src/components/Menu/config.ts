@@ -12,23 +12,23 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.cubdefi.com/',
+        href: 'https://exchange.cubdefi.com/',
       },
       {
         label: 'Liquidity',
-        href: 'http://exchange.cubdefi.com/#/pool',
+        href: 'https://exchange.cubdefi.com/#/pool',
       },
     ],
   },
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '/farms',
+    href: 'https://cubdefi.com/farms',
   },
   {
     label: 'Dens',
     icon: 'PoolIcon',
-    href: '/dens',
+    href: 'https://cubdefi.com/dens',
   },
   // {
   //   label: 'Pools',
@@ -62,22 +62,15 @@ const config: MenuEntry[] = [
         href: '#',
       },
       {
-        label: 'AstroTools',
-        href: 'https://app.astrotools.io/pancake-pair-explorer/0x0ef564d4f8d6c0ffe13348a32e21efd55e508e84',
-      },
-      {
-        label: 'Docs',
-        href: 'https://docs.cubdefi.com',
-      },
-      {
         label: 'Roadmap',
         href: 'https://docs.cubdefi.com/roadmap',
       },
-      {
-        label: 'Discord',
-        href: 'https://discord.gg/E4jePHe',
-      },
     ],
+  },
+  {
+    label: 'Docs',
+    icon: 'TicketIcon',
+    href: 'https://cubdefi.com/docs',
   },
   {
     label: 'More',
