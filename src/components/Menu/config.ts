@@ -70,7 +70,7 @@ const config: MenuEntry[] = [
   {
     label: 'Docs',
     icon: 'TicketIcon',
-    href: 'https://cubdefi.com/docs',
+    href: 'https://docs.cubdefi.com/',
   },
   {
     label: 'More',
